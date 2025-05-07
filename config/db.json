@@ -1,0 +1,20 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Martillo de acero",
+        "categoria": "herramientas",
+        "precio": 45.99,
+        "stock": 30,
+        "sucursales": [1]
+      }
+    ],
+    "sucursales": [
+      {
+        "id": 1,
+        "nombre": "Sucursal Centro",
+        "direccion": "Av. Principal 123, Ciudad"
+      }
+    ]
+  }
+  
